@@ -11,6 +11,8 @@ J'ai du formuler des requêtes SQL afin d'extraire les informations pertinentes.
 
 **Soft skills acquis** : créativité, résolution de problèmes, adaptabilité.
 
+**Commentaires de l'évaluateur**
+
 **Livrable**
 
 **Points forts** :
